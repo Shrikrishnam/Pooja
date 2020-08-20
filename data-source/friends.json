@@ -1,0 +1,116 @@
+{
+  "allfriends": [
+    {
+      "firstname": "Pooja",
+      "lastname": "Vaidya",
+      "age": 19,
+      "phonenumber": "9988776777",
+      "email": "test@test.com",
+      "streetaddress": "test",
+      "city": "test",
+      "state": "test",
+      "country": "India",
+      "pincode": "560058",
+      "trainerpreference": "Female",
+      "physiotherapist": "Yes",
+      "packages": "2400",
+      "inr": "2400",
+      "date": "2020-08-20",
+      "id": 1
+    },
+    {
+      "firstname": "Huma",
+      "lastname": "Khan",
+      "packages": "1200",
+      "physiotherapist": "Yes",
+      "trainerpreference": "Male",
+      "age": 54,
+      "email": "test@test.com",
+      "phonenumber": "9988776651",
+      "pincode": "560058",
+      "country": "India",
+      "state": "test",
+      "city": "test",
+      "streetaddress": "test",
+      "inr": "2020-08-21",
+      "date": "1200",
+      "id": 3
+    },
+    {
+      "firstname": "Pranit",
+      "lastname": "Vaidya",
+      "packages": "2400",
+      "physiotherapist": "Yes",
+      "trainerpreference": "Male",
+      "age": 19,
+      "email": "test@test.com",
+      "phonenumber": "0998877665",
+      "pincode": "560058",
+      "country": "India",
+      "state": "test",
+      "city": "test",
+      "streetaddress": "test",
+      "date": "2020-08-21",
+      "inr": "2400",
+      "id": 4
+    }
+  ],
+  "contacts": [
+    {
+      "firstname": "Pooja",
+      "lastname": "Vaidya",
+      "phonenumber": "9988776655",
+      "email": "test@test.com",
+      "message": "5",
+      "id": 1
+    },
+    {
+      "firstname": "Prachi",
+      "lastname": "Vaidya",
+      "phonenumber": "9988776655",
+      "email": "test@test.com",
+      "message": "12",
+      "id": 2
+    },
+    {
+      "firstname": "Poojan",
+      "lastname": "Vaidya",
+      "phonenumber": "9988776653",
+      "email": "test@test.com",
+      "message": "tftsfdtsf",
+      "id": 3
+    },
+    {
+      "firstname": "Huma",
+      "lastname": "Khan",
+      "phonenumber": "8888651420",
+      "email": "huma@gmail.com",
+      "message": "gty",
+      "id": 4
+    },
+    {
+      "firstname": "Aishu",
+      "lastname": "Gotmare",
+      "phonenumber": "9988776655",
+      "email": "test@test.com",
+      "message": "ggg",
+      "id": 5
+    },
+    {
+      "firstname": "Priyaank",
+      "lastname": "Vaidya",
+      "phonenumber": "0998877665",
+      "email": "test@test.com",
+      "message": "safag",
+      "id": 6
+    },
+    {
+      "firstname": "Aishu",
+      "lastname": "Gotmare",
+      "phonenumber": "9988776651",
+      "email": "test@test.com",
+      "message": "1wrt",
+      "id": 7
+    }
+  ]
+}
